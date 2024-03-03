@@ -1,6 +1,6 @@
 # General Settings
 title = "Myour - One Page Resume CV Hugo Theme"
-baseURL = "https://main--nina-ganyard.netlify.app/" #YOUR SITE URL
+baseURL = "https://nina.ganyard.com/" #YOUR SITE URL
 languageCode = "en-us"
 theme = "myour"
 resourceDir = "resources"
