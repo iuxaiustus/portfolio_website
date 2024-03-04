@@ -87,7 +87,7 @@ DefaultContentLanguage = "en"
 [params]
 skinColor = "" #PREDEFINED COLOR SCHEMES: [ "beige", "blue", "brown", "green_light", "green", "orange", "purple", "red", "yellow_light", "yellow" ]
 dateFormat = "January 2, 2006"
-authorName = "Joé Wilson"
+authorName = "Nina Ganyard"
 disqusComments = "test" #YOUR DISQUS COMMENTS SHORTNAME
 formspreeURL = "" #YOUR FORMSPREE URL
 googleAnalytics = "" #YOUR GOOGLE ANALYTICS CODE
@@ -95,8 +95,8 @@ googleAnalytics = "" #YOUR GOOGLE ANALYTICS CODE
 # Header Settings
 [params.header]
 logo_image = "images/logo.png"
-logo_text = "Joé <br />Wilson"
-logo_alt = "Joé Wilson"
+logo_text = "Nina <br />Ganyard"
+logo_alt = "Nina Ganyard"
 button_text = "Download CV"
 button_url = "files/Resume-Template.pdf"
 button_icon = "fas fa-download"

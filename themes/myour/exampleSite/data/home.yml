@@ -32,7 +32,7 @@ hero_slider:
 ### Started [ startedSection ]
 started:
   enable: true
-  title: "Joé <br />Wilson"
+  title: "Nina <br />Ganyard"
   typed:
     - "Consultant and Mentor"
     - "Web Designer"
@@ -342,9 +342,9 @@ contacts:
   enable: true
   title: "Contact"
   subtitle: "Let's talk"
-  name: "Joe Wilson"
+  name: "Nina Ganyard"
   subname: "Consultant & Mentor"
-  signature: "Joe Wilson"
+  signature: "Nina Ganyard"
   list:
     - label: "Age:"
       value: "24"
